@@ -41,9 +41,6 @@ solar-challenge-week0/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation (this file)
 
-markdown
-Copy code
-
 ## ✅ Tasks Completed
 
 **Task 1: Git & Environment Setup**
