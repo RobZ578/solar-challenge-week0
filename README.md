@@ -20,6 +20,7 @@ The dataset comprises time-series measurements from solar radiation sensors, inc
 - **Operational Data**: Module Temperatures (TModA, TModB), Cleaning Events
 
 ## 🚀 Repository Structure
+'''
 solar-challenge-week0/
 ├── .github/workflows/ # CI/CD GitHub Actions configuration
 │ └── ci.yml
@@ -40,7 +41,7 @@ solar-challenge-week0/
 ├── .gitignore # Files and folders to ignore
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation (this file)
-
+'''
 ## ✅ Tasks Completed
 
 **Task 1: Git & Environment Setup**
